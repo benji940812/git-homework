@@ -1,2 +1,2 @@
-# git-homwork
+# git-homework
 Homework for Git Basics
